@@ -1,0 +1,6 @@
+diff a/texttext3.txt b/texttext3.txt	(rejected hunks)
+@@ -1 +1,2 @@
+\ No newline at end of file
++test text 3 file
+ This file is for Branch 3
+\ No newline at end of file

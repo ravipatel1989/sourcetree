@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 test text 3 file
 This file is for Branch 3
+=======
+code for branch 3
+code for branch 2
+code for branch 1
+>>>>>>> Branch1
