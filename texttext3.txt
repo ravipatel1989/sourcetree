@@ -1,1 +1,3 @@
-test text 3 file
+code for branch 3
+code for branch 2
+code for branch 1
